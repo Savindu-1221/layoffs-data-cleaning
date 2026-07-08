@@ -37,3 +37,9 @@ My own real world layoffs dataset.
 This project taught me how to handle real world
 dirty data problems including encoding issues,
 duplicate detection and NULL value strategies.
+
+## Key Findings
+- Amazon had the most total layoffs
+- Consumer industry was hit hardest
+- 2022 was the worst year
+- USA had the most layoffs by country
